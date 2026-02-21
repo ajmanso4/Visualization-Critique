@@ -1,5 +1,5 @@
 # Visualization Critique Assignment
-A critical evaluation of a poor visualization of data.
+A critical evaluation of a poor visualization of data from ISDA-141 Information Visualization.
 
 ## Table of Contents:
   * What is the QUESTION and are there any issues with the QUESTION?
